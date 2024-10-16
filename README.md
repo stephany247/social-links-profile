@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL here](https://github.com/stephany247/social-links-profile)
-- Live Site URL: [Live site URL here](https://stephany-social-links-profile.vercel.app/)
+- Live Site URL: [Live site URL here](https://stephany247.github.io/social-links-profile/)
 
 ## My process
 
