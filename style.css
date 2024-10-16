@@ -164,7 +164,7 @@ img {
   border-radius: 10px;
   font-size: 0.88rem;
   font-weight: 600;
-  transition: 0.3s ease-in-out;
+  transition: 0.2s ease-in-out;
 }
 
 .link:hover,
@@ -176,7 +176,8 @@ img {
 .attribution {
   font-size: 11px;
   text-align: center;
+  color: var(--White);
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: var(--Green);
 }
